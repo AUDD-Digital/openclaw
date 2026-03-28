@@ -1,0 +1,16 @@
+name: openclaw
+id: ari:cloud:compass:033435a5-1581-4af5-88e2-30c6172c6ab6:component/7b4e73c7-5fa7-4e44-85a5-26705e0ff5e0/1793ee1f-2fe7-4682-8765-7d6bd1ff6ccd
+description: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/AUDD-Digital/openclaw
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
